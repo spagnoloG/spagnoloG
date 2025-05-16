@@ -1,16 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/spagnoloG.png" alt="Gašper Spagnolo" width="150" style="border-radius:50%;" />
+</p>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/spagnoloG">Gašper Spagnolo</a></h1>
 
-<!--
-**spagnoloG/spagnoloG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>I enjoy solving complex problems.</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Gašper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spagnoloG&show_icons=true&theme=radical)
+
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spagnoloG&layout=compact&langs_count=6&theme=dark)
+
+
+---
+
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/ga%C5%A1per-spagnolo-58262183/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ga%C5%A1per%20Spagnolo-blue?logo=linkedin&style=flat-square"
+         alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Gasper212" target="_blank">
+    <img src="https://img.shields.io/badge/X-@Gasper212-black?logo=twitter&logoColor=white&style=flat-square" alt="X" />
+  </a>
+</p>
+
+---
