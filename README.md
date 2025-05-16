@@ -7,8 +7,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spagnoloG&layout=compact&langs_count=6&theme=dark)
 
----
-
 <p align="center">
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/ga%C5%A1per-spagnolo-58262183/" target="_blank">
@@ -20,4 +18,3 @@
   </a>
 </p>
 
----
