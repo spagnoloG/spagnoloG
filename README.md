@@ -1,20 +1,11 @@
-<p align="center">
-  <img src="https://github.com/spagnoloG.png" alt="Gašper Spagnolo" width="150" style="border-radius:50%;" />
-</p>
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/spagnoloG">Gašper Spagnolo</a></h1>
 
 <p align="center"><em>I enjoy solving complex problems.</em></p>
 
 
-## 📊 GitHub Stats
-
 ![Gašper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spagnoloG&show_icons=true&theme=radical)
 
-
-## 💻 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spagnoloG&layout=compact&langs_count=6&theme=dark)
-
 
 ---
 
